@@ -1,0 +1,43 @@
+# 广东反Zha的DNS
+host-suffix, 157.148.47.204, reject
+ip-cidr, 157.148.47.204/32, reject
+ip-cidr, 157.148.47.204/24, reject
+ip-cidr, 157.148.47.204/16, reject
+ip-cidr, 157.148.47.204/12, reject
+ip-cidr, 157.148.47.204/8, reject
+host-suffix, 219.143.187.136, reject
+ip-cidr, 219.143.187.136/32, reject
+ip-cidr, 219.143.187.136/24, reject
+ip-cidr, 219.143.187.136/16, reject
+ip-cidr, 219.143.187.136/12, reject
+ip-cidr, 219.143.187.136/8, reject
+
+# 反Zha插件 （主用）
+host-keyword, gjfzpt, reject             
+host-keyword, chanct, reject            
+host-keyword, ifcert.cn, reject
+     
+# 反Zha插件（相关）                             
+host-keyword, fzlm, reject              
+host-keyword, fqzpt, reject              
+host-suffix, fanzha.org.cn, reject      
+host-suffix, hicore-auth.com, reject    
+host-suffix, hei-tong.com, reject       
+                                    
+# 其他与反Zha插件窃取隐私相关的，潜在相关的有害网站          
+host-suffix, loongteam.com, reject      
+host-suffix, cert.org.cn, reject        
+host-suffix, ifcert.cn, reject          
+host-suffix, ifcert.com, reject         
+host-suffix, ifcert.org.cn, reject      
+host-suffix, cnvd.org.cn, reject        
+host-suffix, anva.org.cn, reject        
+host-suffix, ics-cert.org.cn, reject    
+host-suffix, certlab.org, reject        
+host-suffix, china-bestmind.com, reject 
+host-suffix, i-bestmind.com, reject     
+host-suffix, t-bestmind.com, reject     
+host-suffix, himindtech.com, reject     
+host-suffix, fhss.com.cn, reject        
+host-suffix, hailiangyun.cn, reject
+
