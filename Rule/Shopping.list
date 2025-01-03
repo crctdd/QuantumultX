@@ -1,14 +1,15 @@
 # 境外购物
 
 # TEMU
-HOST-SUFFIX,us.pftk.temu.com
-HOST-SUFFIX,locale.temu.com
-HOST-SUFFIX,gslb.temu.com
-HOST-SUFFIX,us.temu.com
-HOST-SUFFIX,us.thtk.temu.com
-HOST-SUFFIX,us-ds.temu.com
-HOST-SUFFIX,dl.kwcdn.com
-HOST-SUFFIX,cdl.kwcdn.com
+HOST-KEYWORD,temu,TEMU
+HOST-SUFFIX,us.pftk.temu.com,TEMU
+HOST-SUFFIX,locale.temu.com,TEMU
+HOST-SUFFIX,gslb.temu.com,TEMU
+HOST-SUFFIX,us.temu.com,TEMU
+HOST-SUFFIX,us.thtk.temu.com,TEMU
+HOST-SUFFIX,us-ds.temu.com,TEMU
+HOST-SUFFIX,dl.kwcdn.com,TEMU
+HOST-SUFFIX,cdl.kwcdn.com,TEMU
 
 # Amazon
 HOST-SUFFIX,a2z.com,Amazon
