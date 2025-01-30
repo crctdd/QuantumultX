@@ -1,10 +1,13 @@
 # 广东反Zha的DNS
+host, 157.148.47.204, reject
 host-suffix, 157.148.47.204, reject
 ip-cidr, 157.148.47.204/32, reject
 ip-cidr, 157.148.47.204/24, reject
 ip-cidr, 157.148.47.204/16, reject
 ip-cidr, 157.148.47.204/12, reject
 ip-cidr, 157.148.47.204/8, reject
+
+host, 219.143.187.136, reject
 host-suffix, 219.143.187.136, reject
 ip-cidr, 219.143.187.136/32, reject
 ip-cidr, 219.143.187.136/24, reject
