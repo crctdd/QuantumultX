@@ -1,0 +1,19 @@
+# 屏蔽iOS证书检测
+
+HOST-SUFFIX,oscp.apple.com,REJECT
+HOST-SUFFIX,oscp2.appe.com,REJECT
+HOST-SUFFIX,certs.apple.com,REJECT
+HOST-SUFFIX,crl.apple.com,REJECT
+HOST-SUFFIX,crl.entrust.net,REJECT
+HOST-SUFFIX,crl3.digicert.com,REJECT
+HOST-SUFFIX,crl4.digicert.com,REJECT
+HOST-SUFFIX,ocsp.apple.com,REJECT
+HOST-SUFFIX,ocsp.digicert.cn,REJECT
+HOST-SUFFIX,ocsp.digicert.com,REJECT
+HOST-SUFFIX,ocsp.entrust.net,REJECT
+HOST-SUFFIX,ocsp2.apple.com,REJECT
+HOST-SUFFIX,valid.apple.com,REJECT
+HOST-SUFFIX,ppq.apple.com,REJECT
+HOST-SUFFIX,ppq-ext.v.aaplimg.com,REJECT
+HOST-SUFFIX,appattest.apple.com,REJECT
+HOST-SUFFIX,vpp.itunes.apple.com,REJECT
