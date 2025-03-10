@@ -18,7 +18,7 @@ if (body) {
       // 将歌手改为固定文本“点击播放—>”
       obj.data.song_singer = "终章Tsaiii97";
       // 修改封面为指定链接
-      obj.data.cover = "https://raw.githubusercontent.com/crctdd/avatar/refs/heads/main/icon/F35.jpg";
+      obj.data.cover = "https://raw.githubusercontent.com/crctdd/avatar/refs/heads/main/icon/F35.png";
     }
     $done({body: JSON.stringify(obj)});
   } catch (e) {
