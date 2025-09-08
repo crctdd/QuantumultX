@@ -1,7 +1,7 @@
 // TrollOpen_2.3及以下版本均可使用该脚本激活使用，觉得不错请支持正版
 
 // [task_local]
-event-interaction https://raw.githubusercontent.com/crctdd/QuantumultX/refs/heads/main/Scripts/license.js, tag=license, enabled=false
+// event-interaction https://raw.githubusercontent.com/crctdd/QuantumultX/refs/heads/main/Scripts/license.js, tag=license, enabled=false
 // ==============================================
 
 // 在应用内点复制，将生成的udid手动替换掉“请输入udid”
