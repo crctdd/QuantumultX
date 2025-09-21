@@ -1,5 +1,33 @@
 # 各大Yellow网站分流
 
+# 黄色网站
+HOST-KEYWORD,onlyfans,proxy
+HOST-SUFFIX,onlyfans.com,proxy
+HOST-KEYWORD,pornhub,proxy
+HOST-SUFFIX,pornhub.com,proxy
+HOST-SUFFIX,cn.pornhub.com,proxy
+HOST-KEYWORD,jable,proxy
+HOST-SUFFIX,jable.tv,proxy
+HOST-KEYWORD,91porn,proxy
+HOST-SUFFIX,91porn.com,proxy
+HOST-KEYWORD,whzsfy,proxy
+HOST-SUFFIX,whzsfy.com,proxy
+HOST-KEYWORD,onlyfans,proxy
+HOST-SUFFIX,onlyfans.com,proxy
+HOST-KEYWORD,porn87,proxy
+HOST-SUFFIX,porn87.com,proxy
+HOST-KEYWORD,forusex,proxy
+HOST-SUFFIX,forusex.com,proxy
+HOST-KEYWORD,bttzyw,proxy
+HOST-SUFFIX,bttzyw.info,proxy
+HOST-KEYWORD,69vj,proxy
+HOST-SUFFIX,69vj.com,proxy
+HOST-KEYWORD,avgle,proxy
+HOST-SUFFIX,avgle.com,proxy
+HOST-SUFFIX,zztt15.com,proxy
+HOST-KEYWORD,xxxfollow,proxy
+HOST-SUFFIX,xxxfollow.com,proxy
+
 # JVID
 HOST-SUFFIX,cdv6x4x6.cc,proxy
 HOST-SUFFIX,cdv6x4x6.cn,proxy
@@ -195,6 +223,7 @@ HOST-SUFFIX,fipxor.cn,proxy
 HOST-SUFFIX,10play.zbzfwi.cn,proxy
 
 # 海角社区
+HOST-KEYWORD,haijiao,proxy
 HOST-SUFFIX,haijiao.com,proxy
 
 # One
