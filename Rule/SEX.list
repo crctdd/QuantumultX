@@ -1,8 +1,6 @@
 # 各大Yellow网站分流
 
 # 
-HOST-KEYWORD,onlyfans,proxy
-HOST-SUFFIX,onlyfans.com,proxy
 HOST-KEYWORD,pornhub,proxy
 HOST-SUFFIX,pornhub.com,proxy
 HOST-SUFFIX,cn.pornhub.com,proxy
