@@ -84,7 +84,8 @@ HOST-SUFFIX,111.180.204.11,proxy
 HOST-SUFFIX,88.gbvdfe.com,proxy
 HOST-SUFFIX,vkfqb.ojyrz.com,proxy
 HOST-SUFFIX,211.99.98.*,proxy
-HOST-SUFFIX,vdop.fqoas.com,ica.ooat88.com,proxy
+HOST-SUFFIX,vdop.fqoas.com,proxy
+HOST-SUFFIX,ica.ooat88.com,proxy
 ;103.44.236.131:8001
 
 # 加藤视频
@@ -321,4 +322,5 @@ HOST-SUFFIX,toptoons.online,proxy
 # 红杏视频
 HOST-SUFFIX,hxxx51.com,proxy
 HOST-SUFFIX,www.hxxxaa.com,proxy
+
 
