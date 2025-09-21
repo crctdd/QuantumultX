@@ -59,24 +59,24 @@ HOST-SUFFIX,118.31.70.61,proxy
 HOST-SUFFIX,wapi.koudailc.net,proxy
 
 # 香蕉视频
-HOST-SUFFIX,*.cqict.cn,proxy
+HOST-SUFFIX,cqict.cn,proxy
 HOST-SUFFIX,cqict.cn,proxy
 HOST-SUFFIX,cwt98ehs.cqict.cn,proxy
-HOST-SUFFIX,*.xxoo137.org,proxy
+HOST-SUFFIX,xxoo137.org,proxy
 HOST-SUFFIX,xxoo137.org,proxy
 
 # 鲍鱼盒子
 HOST-SUFFIX,w1c2.ooat88.com,proxy
 HOST-SUFFIX,tu.dfgfdg.win,proxy
 HOST-SUFFIX,103.44.236.*,proxy
-HOST-SUFFIX,*.artrg.cn,proxy
+HOST-SUFFIX,artrg.cn,proxy
 HOST-SUFFIX,artrg.cn,proxy
 HOST-SUFFIX,vkfqb.ojyrz.com,proxy
 HOST-SUFFIX,byapi.*.com,proxy
 HOST-SUFFIX,211.99.98.*,proxy
 HOST-SUFFIX,103.39.222.*,proxy
 HOST-SUFFIX,yubaoyu.oss-cn-shenzhen.aliyuncs.com,proxy
-HOST-SUFFIX,*api.h8h4h.com,proxy
+HOST-SUFFIX,api.h8h4h.com,proxy
 HOST-SUFFIX,42.157.129.25,proxy
 HOST-SUFFIX,siajksslwiso.anningsh.com,proxy
 HOST-SUFFIX,211.99.98.63,proxy
@@ -135,9 +135,9 @@ HOST-SUFFIX,zihjyv.jajrc1.live,proxy
 HOST-SUFFIX,y7uyqg.hl8dbl.live,proxy
 HOST-SUFFIX,qrdure.youngnoble.cn,proxy
 HOST-SUFFIX,kpoe2e.x8w7t3.live,proxy
-HOST-SUFFIX,*jttv*.com,proxy
+HOST-SUFFIX,jttv.com,proxy
 HOST-SUFFIX,fceyeg.johjxe.com,proxy
-HOST-SUFFIX,*.vo9ugl.xyz,proxy
+HOST-SUFFIX,vo9ugl.xyz,proxy
 HOST-SUFFIX,vcryyw.uc86fy.xyz,proxy
 HOST-SUFFIX,xospby.mldo9k.xyz,proxy
 HOST-SUFFIX,roa6fi.lyr6if.live,proxy
@@ -177,21 +177,21 @@ HOST-SUFFIX,gnjk1.*.com,proxy
 HOST-SUFFIX,gnjk2.*.com,proxy
 
 # 淫荡猫
-HOST-SUFFIX,*.cloudfront.net,proxy
+HOST-SUFFIX,cloudfront.net,proxy
 HOST-SUFFIX,snerbnew.pxyzjmspfl.work,proxy
 ;snerbnew.pxyzjmspfl.work:51999
-HOST-SUFFIX,*.rnuozrryfq.work,proxy
+HOST-SUFFIX,rnuozrryfq.work,proxy
 HOST-SUFFIX,aw0702.x5t5d5a4c.work,proxy
 
 # 麻豆传媒+快手萝莉
-HOST-SUFFIX,*.cloudfront.net,proxy
+HOST-SUFFIX,cloudfront.net,proxy
 
 # 福利软件通用
 HOST-SUFFIX,120play.*.cn,proxy
 HOST-SUFFIX,h5play.*.com,proxy
 HOST-SUFFIX,long.*.cn,proxy
-HOST-SUFFIX,*.fipxor.cn,proxy
-HOST-SUFFIX,*.10play.zbzfwi.cn,proxy
+HOST-SUFFIX,fipxor.cn,proxy
+HOST-SUFFIX,10play.zbzfwi.cn,proxy
 
 # 海角社区
 HOST-SUFFIX,haijiao.com,proxy
@@ -277,9 +277,9 @@ HOST-SUFFIX,api.26bb4xt.com,proxy
 HOST-SUFFIX,api.vf5x3hv.com,proxy
 
 # 萝莉岛+吸游记
-HOST-SUFFIX,*.cloudfront.net,proxy
+HOST-SUFFIX,cloudfront.net,proxy
 HOST-SUFFIX,dag29jmgma1g.site,proxy
-HOST-SUFFIX,*site.com,proxy
+HOST-SUFFIX,site.com,proxy
 HOST-SUFFIX,d1no17eycutrsi.cloudfront.net,proxy
 HOST-SUFFIX,lldajbfyobffkbg288-api.com,proxy
 HOST-SUFFIX,lasdasdgapi.cc,proxy
@@ -290,11 +290,11 @@ HOST-SUFFIX,s1jyc4asdr14nsa.504824.xyz,proxy
 HOST-SUFFIX,suning.679134.xyz,proxy
 HOST-SUFFIX,b8u1lvlb.504867.xyz,proxy
 HOST-SUFFIX,umcuy46v9yr3gn4.504843.xyz,proxy
-HOST-SUFFIX,*.504*.xyz,proxy
+HOST-SUFFIX,504*.xyz,proxy
 HOST-SUFFIX,5sfc4hgy.504832.xyz,proxy
 
 # Xvideo
-HOST-SUFFIX,*.cloudfront.net,proxy
+HOST-SUFFIX,cloudfront.net,proxy
 
 # 139FM
 HOST-SUFFIX,139fm.bond,proxy
@@ -321,3 +321,4 @@ HOST-SUFFIX,toptoons.online,proxy
 # 红杏视频
 HOST-SUFFIX,hxxx51.com,proxy
 HOST-SUFFIX,www.hxxxaa.com,proxy
+
