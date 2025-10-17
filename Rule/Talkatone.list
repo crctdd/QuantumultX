@@ -1,0 +1,13 @@
+# Talkatone
+
+HOST,a1.tktn.be,Talkatone
+HOST-KEYWORD,talkatone,Talkatone
+HOST-KEYWORD,web.tktn.be,Talkatone
+HOST-KEYWORD,app-analytics-services.com,Talkatone
+HOST-SUFFIX,mobilefuse.com,Talkatone
+HOST-SUFFIX,talkatone.com,Talkatone
+HOST-SUFFIX,tktn.be,Talkatone
+HOST-SUFFIX,talkatone.com,Talkatone
+IP-CIDR,205.164.56.0/24,Talkatone
+IP-CIDR,50.117.27.0/24,Talkatone
+IP-CIDR,69.46.75.0/24,Talkatone
